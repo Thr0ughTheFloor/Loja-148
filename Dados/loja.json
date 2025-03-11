@@ -1,20 +1,20 @@
-[{
- "id" :1,
- "descricao": "Produto 1",
- "image": "",
- "preco": 10.0   
-},
-
-{
-"id" :2,
-"descricao": "Produto 2",
-"image": "",
-"preco": 20.0   
-},
-
-{
- "id" :3,
- "descricao": "Produto 3",
- "image": "",
- "preco": 50.0   
-}]
+[
+    {
+        "id":1,
+        "descricao": "Produto 1",
+        "imagem": "../Assets/p1.webp",
+        "preco": 10.0
+    },
+    {
+        "id":2,
+        "descricao": "Produto 2",
+        "imagem": "../Assets/p2.webp",
+        "preco": 20.0
+    },
+    {
+        "id":3,
+        "descricao": "Produto 3",
+        "imagem":  "../Assets/p3.webp",
+        "preco": 50.0
+    }
+]
